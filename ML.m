@@ -38,7 +38,6 @@ for i=1:options.level
 end
 
 %% Features
-%{%
 counter = 0;
 features = zeros(sum((1:options.level).^2)* sum(options.patterns),1);
 for level=1:options.level
@@ -59,7 +58,6 @@ for level=1:options.level
     end
     
 end
-%}
 
 %% Representation display
 if (isfield(options, 'representation'))
