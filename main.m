@@ -1,4 +1,5 @@
 % Salah Eddine Bekhouche (salah@bekhouche.com)
+% Bekhouche, S. E., Ouafi, A., Dornaika, F., Taleb-Ahmed, A., & Hadid, A. (2017). Pyramid multi-level features for facial demographic estimation. Expert Systems with Applications, 80, 297-310.
 clc;clear;
 
 %% DOwnload image
